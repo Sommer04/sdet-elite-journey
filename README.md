@@ -7,14 +7,6 @@
 </h4>
 
 <p align="center">
-  <a href="#about">About</a> •
-  <a href="#tech-stack">Tech Stack</a> •
-  <a href="#roadmap">Roadmap</a> •
-  <a href="#portfolio">Portfolio</a> •
-  <a href="#contact">Contact</a>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Playwright-45ba4b?logo=playwright&logoColor=white" alt="Playwright" />
