@@ -26,7 +26,7 @@ A clear and concise description of what you expected to happen.
 **Severity**
 How big is the impact on the functionality
 - [ ] High
-- [ ] Mediwm
+- [ ] Medium
 - [ ] Low
 
 **Screenshots**
