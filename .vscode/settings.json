@@ -1,0 +1,6 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "tabSize": 2,
+  "[typescript]": {},
+  "editor.formatOnSave": true
+}
