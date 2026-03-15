@@ -69,7 +69,7 @@ calculated `node_modules/` structure and establishing hard links between
 it and the store. Packages that already exist in the store from previous
 installations are not downloaded again — they are linked directly.
 
-![Package Installation Progress] (./pnpm-package-installation-progress.png)
+![Package Installation Progress](./pnpm-package-installation-progress.png)
 
 > pnpm treats each package independently. As soon as an individual package
 > completes Stage 1 (Resolution), it immediately moves to Stage 2 (Fetching),
