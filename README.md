@@ -113,7 +113,7 @@ Unlike traditional bootcamps (Selenium syntax + certificate), this curriculum in
 
 ```
 PHASE 0: Foundations (Zero assumptions)        [██░░░░░░░░] 20% 🟡
-  ├─ M0: Development environment (Terminal, Git)
+  ├─ M0: Development environment (Terminal, Git) [██████████] 100% ✅
   ├─ M1: TypeScript fundamentals
   └─ M2: Software engineering (OOP, SOLID, Patterns)
 
@@ -211,7 +211,7 @@ sdet-elite-journey/
 ├── docs/                         # Technical documentation
 │   ├── notes/                   # Module notes
 │   ├── diagrams/                # Mermaid, architectures
-│   └── adr/                     # Architecture Decision Records
+│   └── adr/                    # Architecture Decision Records
 ├── exercises/                    # Practice drills
 │   ├── m0-environment/
 │   ├── m1-typescript/
@@ -256,7 +256,7 @@ cat curriculum/sdet_grafo_conocimiento_v1.md
 
 - **[Issues](https://github.com/Sommer04/sdet-elite-journey/issues)**: Module tracking
 - **[Projects](https://github.com/Sommer04/sdet-elite-journey/projects)**: Kanban board phases
-- **[Wiki](https://github.com/Sommer04/sdet-elite-journey/docs/notes)**: Learning notes
+- **[Glossary](docs/GLOSSARY.md)**: Key terminology reference (Feynman definitions)
 
 ---
 
