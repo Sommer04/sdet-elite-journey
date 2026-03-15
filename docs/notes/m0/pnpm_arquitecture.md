@@ -40,7 +40,7 @@ store and are reused via hard links — no redundant storage for unchanged conte
 
 ---
 
-![Screenshot of how content-addressable store works on pnpm](https://www.notion.so/Modulo-0-30374ff14d9080248ac1f2b144083e36?source=copy_link#32274ff14d9080d9a115d73888917f40)
+![Screenshot of how content-addressable store works on pnpm](./pnpm-content-addressable-store.png)
 
 > This can be observed in the image: two projects with different packages
 > (`is-odd` and `is-even`) share entries in the store because some of their
@@ -69,7 +69,7 @@ calculated `node_modules/` structure and establishing hard links between
 it and the store. Packages that already exist in the store from previous
 installations are not downloaded again — they are linked directly.
 
-![Package Installation Progress] (https://www.notion.so/Modulo-0-30374ff14d9080248ac1f2b144083e36?source=copy_link#32274ff14d9080938681d5b0465ee7f7)
+![Package Installation Progress] (./pnpm-package-installation-progress.png)
 
 > pnpm treats each package independently. As soon as an individual package
 > completes Stage 1 (Resolution), it immediately moves to Stage 2 (Fetching),
